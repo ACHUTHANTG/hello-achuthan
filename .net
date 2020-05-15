@@ -1,5 +1,9 @@
-using system;
+using System;
+namespace hello;
+{
+class achu
+{
 public static void Main(string [] arg)
 {
-System.out.println("Hello Achuthan");
-}}
+Console.WriteLine("Hello Achuthan");
+}}}
